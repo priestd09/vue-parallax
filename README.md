@@ -1,4 +1,6 @@
 # vue-parallaxy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/apertureless/vue-parallax.svg)](https://greenkeeper.io/)
 [![npm version](https://badge.fury.io/js/vue-parallaxy.svg)](https://badge.fury.io/js/vue-parallaxy)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/apertureless/vue-parallax/blob/master/LICENSE.txt)
 
